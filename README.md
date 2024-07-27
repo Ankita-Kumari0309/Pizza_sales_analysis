@@ -4,27 +4,37 @@ The goal of this project is to analyze pizza sales data and derive insightful in
 
 🎯 Objectives
 
-🛒 Retrieve and analyze the total number of orders placed.
-💵 Calculate the total revenue generated from pizza sales.
-🏆 Identify the highest-priced pizza.
-📏 Determine the most common pizza size ordered.
-🍕 List the top 5 most ordered pizza types along with their quantities.
-🔗 Join necessary tables to find the total quantity of each pizza category ordered.
-⏰ Determine the distribution of orders by hour of the day.
-📅 Group orders by date to calculate the average number of pizzas ordered per day.
-💰 Identify the top 3 most ordered pizza types based on revenue.
+  🛒 Retrieve and analyze the total number of orders placed.
+
+  💵 Calculate the total revenue generated from pizza sales.
+
+  🏆 Identify the highest-priced pizza.
+
+  📏 Determine the most common pizza size ordered.
+
+  🍕 List the top 5 most ordered pizza types along with their quantities.
+
+  🔗 Join necessary tables to find the total quantity of each pizza category ordered.
+
+  ⏰ Determine the distribution of orders by hour of the day.
+
+  📅 Group orders by date to calculate the average number of pizzas ordered per day.
+
+  💰 Identify the top 3 most ordered pizza types based on revenue.
+
 
 🛠️ Technologies Used
 
-Database Management: MySQL
-Data Analysis: SQL queries
+  Database Management: MySQL
+  
+  Data Analysis: SQL queries
 
 📜 Steps to Perform This Project : 
 
-1. Import the Dataset
-2. Define the Database Schema
-3. Execute the Analysis
-4. view the Results
+  1. Import the Dataset
+  2. Define the Database Schema
+  3. Execute the Analysis
+  4. view the Results
 
 🏁 Conclusion
 
