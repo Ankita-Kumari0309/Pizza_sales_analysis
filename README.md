@@ -4,23 +4,23 @@ The goal of this project is to analyze pizza sales data and derive insightful in
 
 🎯 Objectives
 
-  🛒 Retrieve and analyze the total number of orders placed.
+  1. Retrieve and analyze the total number of orders placed.
 
-  💵 Calculate the total revenue generated from pizza sales.
+  2. Calculate the total revenue generated from pizza sales.
 
-  🏆 Identify the highest-priced pizza.
+  3.  Identify the highest-priced pizza.
 
-  📏 Determine the most common pizza size ordered.
+  4.  Determine the most common pizza size ordered.
 
-  🍕 List the top 5 most ordered pizza types along with their quantities.
+  5.  List the top 5 most ordered pizza types along with their quantities.
 
-  🔗 Join necessary tables to find the total quantity of each pizza category ordered.
+  6. Join necessary tables to find the total quantity of each pizza category ordered.
 
-  ⏰ Determine the distribution of orders by hour of the day.
+  7.  Determine the distribution of orders by hour of the day.
 
-  📅 Group orders by date to calculate the average number of pizzas ordered per day.
+  8.  Group orders by date to calculate the average number of pizzas ordered per day.
 
-  💰 Identify the top 3 most ordered pizza types based on revenue.
+  9. Identify the top 3 most ordered pizza types based on revenue.
 
 
 🛠️ Technologies Used
