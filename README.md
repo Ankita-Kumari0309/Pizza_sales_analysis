@@ -1,7 +1,9 @@
 📋 Project Description
+
 The goal of this project is to analyze pizza sales data and derive insightful information for the company. By utilizing MySQL to handle different facets of the sales data, we aim to generate valuable insights for the product team. This analysis will offer helpful information on consumer preferences, sales trends, and operational effectiveness, ultimately aiding in strategic decision-making.
 
 🎯 Objectives
+
 🛒 Retrieve and analyze the total number of orders placed.
 💵 Calculate the total revenue generated from pizza sales.
 🏆 Identify the highest-priced pizza.
@@ -13,6 +15,7 @@ The goal of this project is to analyze pizza sales data and derive insightful in
 💰 Identify the top 3 most ordered pizza types based on revenue.
 
 🛠️ Technologies Used
+
 Database Management: MySQL
 Data Analysis: SQL queries
 
@@ -24,4 +27,5 @@ Data Analysis: SQL queries
 4. view the Results
 
 🏁 Conclusion
+
 This analysis of pizza sales data using MySQL provides valuable insights that can help the product team make informed decisions to enhance marketing strategies, optimize inventory, and improve overall customer satisfaction. By understanding sales trends and customer behavior, the company can strategically plan for future growth and success.
